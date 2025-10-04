@@ -7,7 +7,7 @@ Análise da evolução da taxa de cobertura da pré-escola no Brasil utilizando 
 [👉 CLIQUE AQUI PARA VER O RELATÓRIO COMPLETO](https://bibsfihafiha.github.io/analise-educacao-infantil-brasil/)
 
 ## Estrutura
-- `trabalho_r_bianca_djelberian.qmd` - Código fonte
+- `projeto.qmd` - Código fonte
 - `index.html` - Relatório final (antigo trabalho_r_bianca_djelberian.html)
 
 ## Autora
