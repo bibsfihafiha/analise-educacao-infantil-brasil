@@ -1,10 +1,14 @@
 ---
-title: "Análise da Cobertura da Educação Infantil no Brasil (2007-2024)"
+title: "Análise da Cobertura da Educação Infantil no Brasil"
 author: "Bianca Fialho Salgado Djelberian"
-format: html
-editor: visual
-toc: true
-lang: pt
+format: 
+  html:
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      text: |
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.1/plotly.min.js"></script>
+engine: knitr
 ---
 
 # 1. Introdução e Contexto da Análise
